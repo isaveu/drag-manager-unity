@@ -20,3 +20,7 @@ _app/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+/DragManager/.vs/DragManager/v15/Server/sqlite3/*.lock
+/DragManager/.vs/DragManager/v15/Server/sqlite3/*.ide
+/DragManager/.vs/DragManager/v15/Server/sqlite3/*.ide-shm
+/DragManager/.vs/DragManager/v15/Server/sqlite3/*.ide-wal

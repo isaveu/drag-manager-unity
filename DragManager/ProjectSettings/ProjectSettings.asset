@@ -528,11 +528,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: DragManager
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 003797a0c9aad401
   metroApplicationDescription: DragManager
   wsaImages: {}
   metroTileShortName: 
@@ -550,9 +550,12 @@ PlayerSettings:
   platformCapabilities:
     WindowsStoreApps:
       HumanInterfaceDevice: False
-      InternetClient: False
+      InternetClient: True
       InternetClientServer: False
+      Microphone: False
       PrivateNetworkClientServer: False
+      SpatialPerception: True
+      WebCam: False
   metroFTAName: 
   metroFTAFileTypes: []
   metroProtocolName: 
